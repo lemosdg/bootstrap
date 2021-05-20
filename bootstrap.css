@@ -7,3 +7,9 @@ body{
 .carousel{
     margin-top: 40px;
 }
+
+/* fondo sombreado para hacer visible el texto */
+.caja{
+    background-color: black;
+    opacity: 0.6;
+}
