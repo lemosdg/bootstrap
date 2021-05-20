@@ -1,0 +1,9 @@
+body{
+    background-image: url(imagenes/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel{
+    margin-top: 40px;
+}
