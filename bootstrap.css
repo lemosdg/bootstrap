@@ -2,6 +2,7 @@ body{
     background-image: url(imagenes/back.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     font-family: Helvetica ,sans-serif;
 }
 
@@ -30,6 +31,16 @@ body{
 
 .lista{
     margin-top: 40px;
+}
+
+/* página de lista */
+
+.t-boss{
+    margin-left: 20px;
+}
+
+.card{
+    margin-top: 35px;
 }
 
 /* pagina jefe */
@@ -70,4 +81,12 @@ body{
 
 .gwynModal{
     margin-left: 40px;
+}
+
+@media (max-width: 600px) {
+    .gwyn{
+        margin-top: 40px;
+        width: 200px;
+        height: 250px;
+    }
 }
