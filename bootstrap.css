@@ -41,6 +41,7 @@ body{
 
 .card{
     margin-top: 35px;
+    margin-bottom: 20px;
 }
 
 /* pagina jefe */
@@ -81,6 +82,17 @@ body{
 
 .gwynModal{
     margin-left: 40px;
+}
+
+/* footer */
+
+footer{
+    margin-top: 40px;
+    padding: 20px;
+}
+
+footer h5{
+    margin-bottom: 30px;
 }
 
 @media (max-width: 600px) {
